@@ -8,7 +8,11 @@
 
 <!---
 claudiacasta28/claudiacasta28 is a ✨ special ✨ repository because its `htpp///github.com///mi pagina web` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.https://github.com/claudiacasta28/claudiacasta28.git
-git immi
+You can click the Preview link to take a look at your changes.
+git clone
+https://github.com/claudiacasta28/claudiacasta28.git
+is
+cd
+
 
 --->
